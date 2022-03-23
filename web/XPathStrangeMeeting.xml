@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--TEI xmlns="http://www.tei-c.org/ns/1.0"-->
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Anthology of Poems</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Private Collection</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Copied from a physical book</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="verse">
+				<head>Strange Meeting</head>
+				<lg type="stanza">
+					<l>It seemed that out of battle I escaped</l>
+					<l>Down some profound dull tunnel, long since scooped</l>
+					<l>Through granites which titanic wars had groined.</l>
+				</lg>
+
+				<lg type="stanza">
+					<l>Yet also there encumbered sleepers groaned,</l>
+					<l>Too fast in thought or death to be bestirred.</l>
+					<l>Then, as I probed them, one sprang up, and stared</l>
+					<l>With piteous recognition in fixed eyes,</l>
+					<l>Lifting distressful hands, as if to bless.</l>
+					<l>And by his smile, I knew that sullen hall,---</l>
+					<l>By his dead smile I knew we stood in Hell.</l>
+				</lg>
+
+				<lg type="stanza">
+					<l>With a thousand pains that vision's face was grained;</l>
+					<l>Yet no blood reached there from the upper ground,</l>
+					<l>And no guns thumped, or down the flues made moan.</l>
+					<l>'Strange friend,' I said, 'here is no cause to mourn.'</l>
+					<l>'None,' said that other, 'save the undone years,</l>
+					<l>The hopelessness. Whatever hope is yours,</l>
+					<l>Was my life also; I went hunting wild</l>
+					<l>After the wildest beauty in the world,</l>
+					<l>Which lies not calm in eyes, or braided hair,</l>
+					<l>But mocks the steady running of the hour,</l>
+					<l>And if it grieves, grieves richlier than here.</l>
+					<l>For by my glee might many men have laughed,</l>
+					<l>And of my weeping something had been left,</l>
+					<l>Which must die now. I mean the truth untold,</l>
+					<l>The pity of war, the pity war distilled.</l>
+					<l>Now men will go content with what we spoiled,</l>
+					<l>Or, discontent, boil bloody, and be spilled.</l>
+					<l>They will be swift with swiftness of the tigress.</l>
+					<l>None will break ranks, though nations trek from progress.</l>
+					<l>Courage was mine, and I had mystery,</l>
+					<l>Wisdom was mine, and I had mastery:</l>
+					<l>To miss the march of this retreating world</l>
+					<l>Into vain citadels that are not walled.</l>
+					<l>Then, when much blood had clogged their chariot-wheels,</l>
+					<l>I would go up and wash them from sweet wells,</l>
+					<l>Even with truths that lie too deep for taint.</l>
+					<l>I would have poured my spirit without stint</l>
+					<l>But not through wounds; not on the cess of war.</l>
+					<l>Foreheads of men have bled where no wounds were.</l>
+				</lg>
+
+				<lg type="stanza">
+					<l>'I am the enemy you killed, my friend.</l>
+					<l>I knew you in this dark: for so you frowned</l>
+					<l>Yesterday through me as you jabbed and killed.</l>
+					<l>I parried; but my hands were loath and cold.</l>
+					<l>Let us sleep now....'</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
